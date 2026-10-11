@@ -1,4 +1,4 @@
-<h1>Radical Student Registration!</h1>
+<h1>Radical Student Registration CICD PROMETHEUS!</h1>
     <p>Please fill in this form!</p>
     <hr>
 
